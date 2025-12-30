@@ -1784,4 +1784,3 @@ const InjuryTimeline = () => {
 };
 
 export default InjuryTimeline;
-export default InjuryTimeline;
